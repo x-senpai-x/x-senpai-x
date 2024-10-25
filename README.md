@@ -1,8 +1,8 @@
 
 
-# Hi, I'm Utsav! 👋
+# Hi, I'm Utsav from IIT Roorkee! 👋
 
-I'm a passionate blockchain developer, specializing in decentralized technologies, decentralized finance , zero knowledge and Ethereum light clients. Currently, I'm involved in various projects that span from building secure, trustless systems . Here’s a bit about me and what I’m working on:
+I'm a passionate blockchain developer and part of [BlocSocIITR](https://github.com/BlocSoc-iitr/), specializing in decentralized technologies, decentralized finance , zero knowledge and Ethereum light clients. Currently, I'm involved in various projects that span from building secure, trustless systems . Here’s a bit about me and what I’m working on:
 
 ---
 
