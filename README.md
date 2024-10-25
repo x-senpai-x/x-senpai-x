@@ -33,7 +33,7 @@ I'm a passionate blockchain developer, specializing in decentralized technologie
 ---
 
 ### 💬 Let's Connect!
-I'm always open to discussing new ideas, blockchain development, or collaborating on projects related to web3 and decentralization. You can reach out to me on [GitHub Discussions](#) or connect with me on LinkedIn![]
+I'm always open to discussing new ideas, blockchain development, or collaborating on projects related to web3 and decentralization. You can reach out to me on [GitHub Discussions](#) or connect with me on [Twitter](https://x.com/0x_senpai_x?t=JmOw5uvvlwLn1nDh8O1M4Q&s=09) or [LinkedIn](https://www.linkedin.com/in/utsav-sharma-84a6631b9/)
 
 ---
 
