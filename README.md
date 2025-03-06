@@ -10,7 +10,7 @@ I'm a passionate blockchain developer and part of [BlocSocIITR](https://github.c
 - **Selene** - A **light client for Ethereum** developed in Go, inspired by Helios, but optimized for a Go environment. It provides essential modules such as client and consensus, verified block headers, and executes Merkle proofs. Future plans include creating a wallet integrated with Selene, enhancing the decentralized experience.
 - **Neom** - A **trustless and permissionless portfolio manager**, powered by Selene, offering features like token balances, transaction history, portfolio value, and an NFT gallery. This project is designed to use decentralized data sources, making the data more secure and trustworthy.
 - **EVM Execution & State Management** - Building an **EVM-based execution client package** in Go, working on block execution, state management, prefetching techniques.
-- **zk-DApp for Dark Pool Trading** - Building a zk-based decentralized dark pool for private off-chain order matching, where proof of execution is verified on-chain. By leveraging zero-knowledge proofs, trades are verified on an aligned layer using zk-SNARKs, ensuring transaction legitimacy without revealing sensitive details.
+
 ---
 
 ### 💡 Areas of Expertise
