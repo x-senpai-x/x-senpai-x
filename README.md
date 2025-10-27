@@ -2,6 +2,8 @@
 
 # Hi, I'm Utsav from IIT Roorkee! 👋
 
+[![Utsav Sharma profile views](https://u8views.com/api/v1/github/profiles/146017234/views/day-week-month-total-count.svg)](https://u8views.com/github/x-senpai-x)
+
 I'm a passionate blockchain developer and part of [BlocSocIITR](https://github.com/BlocSoc-iitr/), specializing in decentralized technologies, decentralized finance , zero knowledge and Ethereum light clients. I am currently building [Enclave](https://www.enclave.money/) and I'm involved in various projects that span across building secure, trustless systems. Here’s a bit about me:
 
 ---
